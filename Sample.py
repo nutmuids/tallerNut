@@ -6,3 +6,5 @@ print("You, underestimate my POWAH!!")
 print("Hello (/owo)/")
 #asdasd
 #asdjfkasdfj;asdfk
+
+print("Kono DIO DA!")
