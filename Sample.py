@@ -8,3 +8,4 @@ print("Hello (/owo)/")
 #asdjfkasdfj;asdfk
 
 print("Kono DIO DA!")
+print("I play to win!")
